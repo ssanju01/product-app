@@ -1,0 +1,1 @@
+export const UPDATE_PRODUCTS: string = 'UPDATE_PRODUCTS';
